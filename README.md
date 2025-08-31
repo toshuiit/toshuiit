@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @toshuiit
-- 👀 I’m interested in cloud computing, DevOps, Problem Solving, Traveling and Helping
+- 👀 I’m interested in cloud computing, LLMs, AI based apps, RAG, AI Agents, Kubernetes, Automation, Problem Solving, Traveling
 - 🌱 I’m currently learning how to be responsible and live a happy life
 - 💞️ I’m looking to collaborate on cloud computing projects
 - 📫 How to reach me , through email toshuiit@gmail.com
